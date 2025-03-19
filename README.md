@@ -3,13 +3,13 @@
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thusharanavod123&label=Profile%20views&color=0e75b6&style=flat" alt="thusharanavod123" /> </p>
 
-- 🔭 I’m currently working on **Louis Bernared**
+- 🔭 I’m currently working on |Skygea|
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning React Native 
 
-- 🤝 I’m looking for help with **full satack developers**
+- 🤝 I’m looking for help with All the Digital Mindset
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about |Java|
 
 - 📫 How to reach me **padiwelathusharanavod@gmail.com**
 
